@@ -1,4 +1,5 @@
 # ✦ PixelDrop — AI Product Image Pipeline
+<img width="1680" height="1050" alt="Screenshot 2026-05-24 at 9 07 35 PM" src="https://github.com/user-attachments/assets/13dff421-c1aa-43d7-b880-1765cd54859a" />
 
 > Automated background removal and white-canvas generation for Amazon, Shopify, and e-commerce product catalogs.
 
