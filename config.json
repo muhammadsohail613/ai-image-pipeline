@@ -1,0 +1,12 @@
+{
+    "canvas_size": 1000,
+    "padding_percent": 0.1,
+    "output_format": "JPEG",
+    "jpeg_quality": 95,
+    "qc_min_foreground": 0.03,
+    "qc_max_foreground": 0.97,
+    "qc_max_edge_noise": 0.15,
+    "input_dir": "input",
+    "output_dir": "output",
+    "flagged_dir": "flagged"
+  }
